@@ -77,6 +77,5 @@ int main(){
             printf("%lld",a[0].num);
         }
     }
-    
     return 0;
 }
